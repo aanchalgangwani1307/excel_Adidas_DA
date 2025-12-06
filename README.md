@@ -1,7 +1,7 @@
-# 👟 Excel Data Analysis Project by Shubham Pawar
+# 👟 Excel Data Analysis Project by Aanchal Gangwani
 
 ## 📊 Adidas US Sales Dashboard  
-![Adidas Banner](https://github.com/mjshubham21/Excel_Adidas_US_Sales/blob/main/Images/Banner.png)
+![Adidas Banner](https://github.com/aanchalgangwani1307/excel_Adidas_DA/blob/main/Images/Banner.png)
 
 ---
 
@@ -12,7 +12,7 @@ This project presents a detailed **Adidas Sales Dashboard** analyzing sales data
 
 ## 🛠️ Tool Used  
 <p align="center">
-  <img src="https://github.com/mjshubham21/Excel_Adidas_US_Sales/blob/main/Images/microsoft-excel.png" alt="Microsoft Excel Logo" width="150"/>
+  <img src="https://github.com/aanchalgangwani1307/excel_Adidas_DA/blob/main/Images/microsoft-excel.png" alt="Microsoft Excel Logo" width="150"/>
 </p>  
 The entire analysis and dashboard were created using **Microsoft Excel 2021**, utilizing:
 - Pivot Tables
@@ -25,7 +25,7 @@ The entire analysis and dashboard were created using **Microsoft Excel 2021**, u
 
 ## 📁 Dataset  
 You can view the dataset used in this project here:  
-🔗 [Adidas US Sales Dataset (Excel)](https://github.com/mjshubham21/Excel_Adidas_US_Sales/blob/main/Adidas%20US%20Sales_DATASET.xlsx)
+🔗 [Adidas US Sales Dataset (Excel)](https://github.com/aanchalgangwani1307/excel_Adidas_DA/blob/main/Adidas%20US%20Sales_DATASET.xlsx)
 
 ---
 
@@ -73,4 +73,4 @@ You can view the dataset used in this project here:
 ---
 
 ## 📎 Dashboard Snapshot  
-![Dashboard Screenshot](https://github.com/mjshubham21/Excel_Adidas_US_Sales/blob/main/Images/dashboard1.png)
+![Dashboard Screenshot](https://github.com/aanchalgangwani1307/excel_Adidas_DA/blob/main/Images/dashboard1.png)
